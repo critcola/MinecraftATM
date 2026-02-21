@@ -1,0 +1,15 @@
+[player is default_player_rank]
+example.permission: true
+ftbutilities.back.cooldown: 0s
+ftbutilities.back.warmup: 0s
+ftbutilities.back.infinite: true
+ftbutilities.chat.name_format: "<&e{name}&r>"
+ftbutilities.chat.nickname.set: true
+ftbutilities.homes.max: 10
+ftbutilities.homes.cooldown: 0s
+ftbutilities.homes.warmup: 0s
+ftbutilities.tpa.cooldown: 0s
+ftbutilities.tpa.warmup: 0s
+
+[admin is default_op_rank]
+ftbutilities.chat.name_format: "<&c{name}&r>"

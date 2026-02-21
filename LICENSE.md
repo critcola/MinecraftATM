@@ -1,0 +1,1 @@
+For kings and queens only
